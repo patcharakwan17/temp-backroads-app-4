@@ -3,7 +3,7 @@ import React from 'react'
 import logo from "../images/logo.svg"
 import { socialLinks } from '../data'
 import PageLinks from './PageLinks'
-import SocialLinks from './SocialLinks'
+import SocialLinks from './socialLinks'
 
 export const Navbar = () => {
   return (
